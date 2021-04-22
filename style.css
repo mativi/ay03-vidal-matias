@@ -1,0 +1,45 @@
+.dog {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:fuchsia;
+    color:aliceblue;
+}
+
+.cat {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    text-align: center;
+    background-color: black;
+}
+
+.dolphin {
+    text-align: left;
+    color:yellow
+}
+
+.giraffe {
+    color: fuchsia;
+}
+
+.wolf {
+    border-width: 5px;
+    border:dashed;
+    border-color:fuchsia;
+    margin:100px;
+    padding:10px;
+}
+
+.owl {
+    font-size: 30px;
+    border:solid;
+    border-radius:5px;
+    border-color:fuchsia;
+    width:400px;
+    margin:auto;
+}
+
+.iguana {
+    border:solid;
+    border-radius:5px;
+    border-color:fuchsia;
+    margin:50px;
+}
